@@ -33,5 +33,5 @@ addEventListener(
 )
 ```
 
-- Fill in Heroku dyno domain names at line 1 & 2. Set timezone at line 3 to control time of switching dyno ranging from Etc/GMT-12 to Etc/GMT+12.
+- Fill in Heroku dyno domain names at line 1 & 2. Set timezone at line 3 to control time of switching dyno, ranging from Etc/GMT-12 to Etc/GMT+12.
 - Click Save and Deploy.
