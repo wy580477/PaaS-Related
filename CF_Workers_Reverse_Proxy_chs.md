@@ -2,6 +2,7 @@
 
    **单双日交替使用不同dyno绕过Heroku非信用卡验证账号每月550小时限制**
 
+- Workers.dev域名在大陆地区被sni阻断，无法直接访问https服务。
 - 需要两个Heroku账号分别部署使用相同变量设置的dyno
 - 登陆cloudflare账号
 - 点击左侧导航栏workers，选择Create a Service
