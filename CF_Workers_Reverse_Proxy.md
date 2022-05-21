@@ -1,6 +1,6 @@
 ### Cloudflare Workers Reverse Proxy
 
-   **alternating use of different dynos to bypass Heroku's 550-hour limit per month for non-credit card verified account**
+   **alternating use of different dynos to bypass Heroku's 550-hour monthly limit for non-credit card verified account**
 
 - Need to deploy two dynos via two Heroku accounts with the same variable settings
 - Log in to your cloudflare account
